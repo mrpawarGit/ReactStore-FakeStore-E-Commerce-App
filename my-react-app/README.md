@@ -16,7 +16,7 @@ Clone the Repo
 
 git clone https://github.com/yourusername/reactstore-fakestore.git
 
-cd reactstore-fakestore
+cd my-react-app
 
 ## 📦 Dependencies
 
