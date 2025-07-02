@@ -15,6 +15,7 @@ ReactStore is a modern front-end e-commerce demo application built with **React*
 Clone the Repo
 
 git clone https://github.com/yourusername/reactstore-fakestore.git
+
 cd reactstore-fakestore
 
 ## 📦 Dependencies
