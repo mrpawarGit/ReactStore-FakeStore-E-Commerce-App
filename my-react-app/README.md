@@ -77,4 +77,4 @@ cd reactstore-fakestore
 
 ## 📜 License
 
-# This project is for learning and demo purposes. You’re free to clone and use it.
+## This project is for learning and demo purposes. You’re free to clone and use it.
